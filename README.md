@@ -1,16 +1,17 @@
-## Hi there 👋
+# etay
 
-<!--
-**etaygg/etaygg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hi. I'm a developer and network engineer who spends my time building web stuff, managing self hosted servers, and writing C code just to see if I can get hardware to do things it wasn't originally supposed to do.
 
-Here are some ideas to get you started:
+## Tech Stack
+* **Web:** HTML, CSS, JavaScript
+* **Systems & Core:** C
+* **Networking & Infrastructure:** Network Engineering, Self-Hosting (Docker, Linux)
+## Around the Web
+* **Website:** [etay.link](https://etay.link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Support Me
+Everything I do is for free, and open source. If you like my work, please consider supporting me on [Ko-fi](https://ko-fi.com), it would help me stay motivated and help me buy new testing devices for example. Thanks.
+
+
+
