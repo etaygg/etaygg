@@ -5,4 +5,4 @@ hi. I'm a developer and network engineer who spends my time building web stuff, 
 ## Tech Stack
 * **Web:** HTML, CSS, JavaScript
 * **Systems & Core:** C
-* **Networking & Infrastructure:** Network Engineering, Self-Hosting (Docker, Linux)
+* **Networking & Infrastructure:** Network Engineering, Self-Hosting 
